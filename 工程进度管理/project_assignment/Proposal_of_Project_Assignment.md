@@ -8,7 +8,7 @@ Cheng, Xing   Li,Xinchun   Zhan,Chi  Chen,Zhaojin  Si,Yi  Zhang,Chen
 
 ## Project Title : 
 
-	Elleshop 
+Elleshop 
 
 ## Project Sponsor:
 
@@ -24,15 +24,15 @@ History data and documents can be referred in project,meanwhile since it is a re
 
 ## Work Breakdown Structure:
 
-	Collect data and arrange documents:
+1. Collect data and arrange documents:
 
-	Project WBS and schedule:
+2. Project WBS and schedule:
 
-	CPM and analysis:
+3. CPM and analysis:
 
-	DSM and analysis:
+4. DSM and analysis:
 
-	Optimization discussion:
+5. Optimization discussion:
 
-	Presentation material preparation:
+6. Presentation material preparation:
 
