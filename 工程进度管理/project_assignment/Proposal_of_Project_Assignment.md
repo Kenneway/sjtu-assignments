@@ -2,10 +2,7 @@
 
 # Elleshop project analysis
 
-## Project Title : 
-jjjj
-
-##　Names and contact information of the team
+## Names and contact information of the team
 
 Cheng, Xing   Li,Xinchun   Zhan,Chi  Chen,Zhaojin  Si,Yi  Zhang,Chen
 
