@@ -17,11 +17,13 @@ xxx CO., LTD
 ## Project Objective:
 
 Elleshop belongs to e-commerce service websites of Hearst group's ELLE company, which is famous French fashion brand.
+
 Elleshop is committed to introducing Chinese and foreign hot brands and designers for Chinese women and then building a diversified new fashion community.
 
 ## Motivation：
 
 It is a typical and complicated IT project, which has several problems and conflicts in project management. It has important practical significance to analyze this project.
+
 As members of this project, we are familiar with many sections, including project backgroud, plans, milestones, schedules and tasks flows, on which we can use the project management tools we have learned to conduct in-depth research and analysis.
 
 ## Research Approach:
